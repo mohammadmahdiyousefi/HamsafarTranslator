@@ -1,6 +1,7 @@
 # HamsafarTranslator
 
-![5](https://github.com/user-attachments/assets/ed1b348d-b279-4cda-b906-7985b7ff3cb0)
+<img src="[https://your-image-url.com/image.jpg](https://github.com/user-attachments/assets/ed1b348d-b279-4cda-b906-7985b7ff3cb0)" alt="Image description" width="300" style="border-radius: 50%; padding: 10px;" />
+
 ![4](https://github.com/user-attachments/assets/2a72a9cd-b3de-487b-9749-0ab1381c633a)
 ![3](https://github.com/user-attachments/assets/e5721eb9-9895-42a4-a111-fcbf00418419)
 ![2](https://github.com/user-attachments/assets/4e270314-878b-4497-b685-ca3acebf8e15)
