@@ -101,9 +101,6 @@
 
 ## <span style="color: #51cf66;">📜 Automatic Translation History / تاریخچه خودکار</span>
 
-> **NOTE**  
-> هیچ دکمه‌ای برای ذخیره وجود ندارد! همه چیز به‌طور خودکار ذخیره می‌شود.
-
 **English** – All your past translations are automatically saved locally (encrypted). You don't need to do anything – just translate, and Hamsafar remembers everything for you. Search, filter, or delete – full control.
 
 **فارسی** – تمام ترجمه‌های قبلی شما به‌طور خودکار به صورت محلی (رمزگذاری شده) ذخیره می‌شوند. نیازی به انجام کاری ندارید – فقط ترجمه کنید و همسفر همه چیز را حفظ می‌کند. جستجو، فیلتر یا حذف – کنترل کامل با شماست.
