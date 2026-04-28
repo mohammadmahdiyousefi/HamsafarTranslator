@@ -130,8 +130,6 @@
 
 **📧 Email:** [hamsafartranslator@gmail.com](mailto:hamsafartranslator@gmail.com)  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hamsafar_translator)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamsafar_translator)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamsafartranslator)
 
 </div>
@@ -146,8 +144,6 @@ If you enjoy using Hamsafar, please give us a **⭐Star** and share it with your
 ---
 
 <div align="center">
-
-**Made with ❤️ using Flutter & Dart – for every traveller**  
-**ساخته شده با ❤️ با Flutter و Dart – برای هر مسافر**
-
+  <div dir="ltr">Made with ❤️ using Flutter &amp; Dart – for every traveller</div>
+  <div dir="rtl">ساخته شده با ❤️ با Flutter و Dart – برای هر مسافر</div>
 </div>
