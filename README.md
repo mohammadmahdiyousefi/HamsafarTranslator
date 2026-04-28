@@ -113,7 +113,7 @@
 
 | فروشگاه | لینک دانلود |
 |----------|-------------|
-| <img src="https://cafebazaar.ir/images/logo.png" width="20"> **کافه بازار** | [دریافت از کافه بازار](https://cafebazaar.ir/app/com.example.hamsafar_translator) |
+| <img src="https://webassets.cafebazaar.ir/images/bazaar-logo.svg" width="20"> **کافه بازار** | [دریافت از کافه بازار](https://cafebazaar.ir/app/com.example.hamsafar_translator) |
 | <img src="https://myket.ir/static/images/favicon.ico" width="20"> **مایکت** | [دریافت از مایکت](https://myket.ir/app/com.example.hamsafar_translator) |
 | <img src="https://github.githubassets.com/favicons/favicon.svg" width="20"> **GitHub Releases** | [دریافت از ریلیزهای گیت‌هاب](https://github.com/hamsafartranslator/hamsafar-translator/releases) |
 
