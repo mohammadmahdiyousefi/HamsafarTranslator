@@ -34,7 +34,7 @@
 | 🤖 **AI smart translator** – Natural, context-aware | 🤖 **مترجم هوشمند با AI** – طبیعی و باهوش |
 | 📜 **Auto‑saving history** – No manual save needed | 📜 **تاریخچه خودکار** – بدون نیاز به ذخیره دستی |
 | 🔍 **Search history** – Find past translations | 🔍 **جستجو در تاریخچه** – پیدا کردن سریع |
-| ✈️ **Travel‑friendly** – Offline mode available | ✈️ **مناسب سفر** – حالت آفلاین دارد |
+| ✈️ **Travel‑friendly** | ✈️ **مناسب سفر** |
 | 🔒 **Privacy first** – Local & encrypted | 🔒 **حریم خصوصی** – محلی و رمزگذاری شده |
 
 ---
