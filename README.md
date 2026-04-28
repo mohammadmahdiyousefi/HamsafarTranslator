@@ -1,13 +1,15 @@
-# HamsafarTranslator – همسفر مترجم
-
 <div align="center">
 
+# Hamsafar Translator – مترجم همسفر
+
+[![Flutter](https://img.shields.io/badge/Flutter-3.16+-blue.svg)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.2+-brightgreen.svg)](https://dart.dev)
+[![Platform](https://img.shields.io/badge/Platform-Android-lightgrey)](https://github.com/hamsafar-translator)
 [![Languages](https://img.shields.io/badge/Supported%20Languages-140%2B-blue)](https://github.com/hamsafar-translator)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-brightgreen)](https://github.com/hamsafar-translator)
-[![Voice Translation](https://img.shields.io/badge/Voice-Translation-orange)](https://github.com/hamsafar-translator)
-[![Image Translation](https://img.shields.io/badge/Image-Translation-red)](https://github.com/hamsafar-translator)
 
-**Your ultimate travel companion – Break language barriers, speak freely, and connect with anyone, anywhere.**
+**سفر بدون مرزها – با هوش مصنوعی و بیش از ۱۴۰ زبان**  
+**Borderless Travel – Powered by AI & 140+ Languages**
 
 </div>
 
@@ -15,18 +17,19 @@
 
 ## 📱 Introduction / معرفی
 
+<div align="center">
+
 > **English**  
-> Hamsafar Translator is a powerful, AI‑driven translation app that goes beyond simple text translation. It supports **over 140 languages** for text, image, and voice translation. Speak naturally and get instant translations – perfect for travel, business, or daily use. With a smart AI assistant and a complete history log, Hamsafar is the only translation companion you'll ever need.
+> Hamsafar Translator is a powerful, AI‑driven translation app built with **Flutter & Dart**. It goes beyond simple text translation, offering **text, image, and voice translation** in over **140 languages**. Speak naturally and get instant translations – perfect for travel, business, or daily use. With a smart AI assistant and an **automatic translation history**, Hamsafar is the only translation companion you'll ever need.
 
 > **فارسی**  
-> مترجم همسفر یک اپلیکیشن قدرتمند و هوشمند است که فراتر از ترجمه‌ی ساده‌ی متن عمل می‌کند. این برنامه از **بیش از ۱۴۰ زبان** برای ترجمه‌ی متن، تصویر و صدا پشتیبانی می‌کند. شما می‌توانید طبیعی صحبت کنید و ترجمه‌ی لحظه‌ای دریافت کنید – عالی برای سفر، کار یا استفاده‌ی روزمره. با مترجم هوشمند مبتنی بر هوش مصنوعی و تاریخچه‌ی کامل ترجمه‌ها، همسفر تنها مترجمی است که نیاز دارید.
+> مترجم همسفر یک اپلیکیشن قدرتمند و هوشمند است که با **Flutter و Dart** ساخته شده و فراتر از ترجمه‌ی ساده‌ی متن عمل می‌کند. این برنامه از **بیش از ۱۴۰ زبان** برای ترجمه‌ی **متن، تصویر و صدا** پشتیبانی می‌کند. شما می‌توانید طبیعی صحبت کنید و ترجمه‌ی لحظه‌ای دریافت کنید – عالی برای سفر، کار یا استفاده‌ی روزمره. با مترجم هوشمند مبتنی بر هوش مصنوعی و **تاریخچه‌ی خودکار ترجمه‌ها**، همسفر تنها مترجمی است که نیاز دارید.
+
+</div>
 
 ---
 
 ## ✨ Features / ویژگی‌ها
-
-<div dir="rtl" align="right">
-</div>
 
 | 🇬🇧 English | 🇮🇷 فارسی |
 |------------|----------|
@@ -34,7 +37,8 @@
 | 🎤 **Speech translation** – Speak and get instant translation | 🎤 **ترجمه‌ی صوتی** – صحبت کنید و ترجمه‌ی لحظه‌ای دریافت کنید |
 | 📸 **Image translation** – Translate text from photos | 📸 **ترجمه‌ی تصویر** – ترجمه‌ی متن داخل عکس‌ها |
 | 🤖 **AI smart translator** – Context‑aware, natural translations | 🤖 **مترجم هوشمند با هوش مصنوعی** – ترجمه‌ی طبیعی و با درک زمینه |
-| 📜 **Translation history** – Never lose your past translations | 📜 **تاریخچه‌ی ترجمه** – هرگز ترجمه‌های قبلی را گم نکنید |
+| 📜 **Auto‑saving history** – All translations are automatically saved | 📜 **تاریخچه‌ی خودکار** – تمام ترجمه‌ها به‌طور خودکار ذخیره می‌شوند |
+| 🔍 **Search history** – Find past translations quickly | 🔍 **جستجو در تاریخچه** – پیدا کردن سریع ترجمه‌های قبلی |
 | ✈️ **Travel‑friendly** – Perfect companion for trips abroad | ✈️ **مناسب سفر** – همراهی عالی برای سفرهای خارجی |
 | 🔒 **Privacy focused** – Your data stays yours | 🔒 **حریم خصوصی** – اطلاعات شما فقط متعلق به شماست |
 
@@ -64,62 +68,86 @@
 1. **Select** source and target languages  
 2. **Type, speak, or take a photo** of the text you want to translate  
 3. **Get instant translation** – text, voice output, or both  
-4. **Save** important translations to history for later  
+4. **All translations are automatically saved** for future reference  
+5. **Search history** anytime to find past translations  
 
 **فارسی**  
 ۱. زبان مبدأ و مقصد را **انتخاب** کنید  
 ۲. متنی که می‌خواهید ترجمه شود را **تایپ، صحبت کنید یا عکس بگیرید**  
 ۳. **ترجمه‌ی فوری** – به صورت متن، خروجی صوتی یا هر دو  
-۴. ترجمه‌های مهم را برای بعد در **تاریخچه ذخیره** کنید  
+۴. **همه ترجمه‌ها به‌طور خودکار ذخیره می‌شوند** برای دسترسی بعدی  
+۵. هر زمان که بخواهید می‌توانید در **تاریخچه جستجو** کنید  
 
 ---
 
 ## 🧠 AI Smart Translator / مترجم هوشمند با AI
 
 **English**  
-Our built‑in AI model understands context, idioms, and cultural nuances – so you get translations that sound natural, not robotic. Whether you're ordering food, asking for directions, or having a conversation, Hamsafar speaks like a human.
+Our built‑in AI model understands context, idioms, and cultural nuances – so you get translations that sound **natural, not robotic**. Whether you're ordering food, asking for directions, or having a conversation, Hamsafar speaks like a human. The AI adapts to your speaking style over time, making each interaction smoother and more accurate.
 
 **فارسی**  
-مدل هوش مصنوعی تعبیه‌شده در همسفر، زمینه، اصطلاحات و ظرافت‌های فرهنگی را درک می‌کند – بنابراین ترجمه‌هایی طبیعی و غیر رباتی دریافت می‌کنید. چه در حال سفارش غذا باشید، چه پرسیدن مسیر، چه مکالمه، همسفر مثل یک انسان صحبت می‌کند.
+مدل هوش مصنوعی تعبیه‌شده در همسفر، **زمینه، اصطلاحات و ظرافت‌های فرهنگی** را درک می‌کند – بنابراین ترجمه‌هایی **طبیعی و غیر رباتی** دریافت می‌کنید. چه در حال سفارش غذا باشید، چه پرسیدن مسیر، چه مکالمه، همسفر مثل یک انسان صحبت می‌کند. هوش مصنوعی با گذشت زمان به سبک صحبت کردن شما عادت می‌کند و هر بار تعامل را نرم‌تر و دقیق‌تر می‌کند.
 
 ---
 
-## 📜 Translation History / تاریخچه ترجمه
+## 📜 Automatic Translation History / تاریخچه خودکار ترجمه
 
 **English**  
-Never lose a translation again. All your past translations are stored locally (and encrypted) for quick access. Search, filter, or delete – you stay in control.
+Never lose a translation again. **All your past translations are automatically saved** locally (and encrypted) for quick access. You don't need to do anything – just translate, and Hamsafar remembers everything for you. Search, filter, or delete – you stay in full control.
 
 **فارسی**  
-دیگر هیچ ترجمه‌ای را گم نخواهید کرد. تمام ترجمه‌های قبلی شما به صورت محلی (و رمزگذاری شده) ذخیره می‌شوند تا دسترسی سریع داشته باشید. جستجو، فیلتر یا حذف – کنترل با شماست.
-
----
-
-## ✅ Why choose Hamsafar? / چرا همسفر را انتخاب کنیم؟
-
-- 🌏 **Truly global** – 140+ languages cover almost every destination  
-- 🗣️ **Speak freely** – Voice translation works offline* (option)  
-- 📷 **Read any sign, menu, or document** – Just point your camera  
-- ⚡ **Lightning fast** – AI optimised for real‑time use  
-- 🎒 **Designed for travellers** – Simple, intuitive UI  
+دیگر هیچ ترجمه‌ای را گم نخواهید کرد. **تمام ترجمه‌های قبلی شما به‌طور خودکار** به صورت محلی (و رمزگذاری شده) ذخیره می‌شوند. شما نیازی به انجام کاری ندارید – فقط ترجمه کنید و همسفر همه چیز را برایتان حفظ می‌کند. جستجو، فیلتر یا حذف – کنترل کامل با شماست.
 
 ---
 
 ## 📥 Download / دانلود
 
-> Coming soon to **iOS App Store** and **Google Play Store**  
-> به زودی در **اپ استور اپل** و **گوگل پلی**
+| Store | Link |
+|-------|------|
+| 🟢 **Café Bazaar** | [Download from Café Bazaar](https://cafebazaar.ir/app/com.example.hamsafar_translator) |
+| 🟣 **MyKet** | [Download from MyKet](https://myket.ir/app/com.example.hamsafar_translator) |
+| 🐙 **GitHub (Releases)** | [Download from GitHub Releases](https://github.com/hamsafartranslator) |
+
+> **Note for Persian users** – Café Bazaar and MyKet are the recommended stores for downloading in Iran.  
+> **توجه کاربران فارسی** – کافه بازار و مایکت فروشگاه‌های پیشنهادی برای دانلود در ایران هستند.
 
 ---
 
-## 📧 Contact / تماس
+## 📞 Contact / تماس
 
-For support or feedback:  
-[hamsafar.translator@example.com] – or open an issue on this repo.
+📧 **Email / ایمیل پشتیبانی و ارتباط با ما:**  
+[hamsafartranslator@gmail.com](mailto:hamsafartranslator@gmail.com)
+
+For support, feedback, or collaboration – feel free to reach out.  
+برای پشتیبانی، بازخورد یا همکاری – با ما در تماس باشید.
+
+---
+
+## 🛠️ Tech Stack / تکنولوژی
+
+- **Flutter** – Cross‑platform UI framework  
+- **Dart** – Programming language  
+- **AI/ML models** – On‑device and cloud translation engines  
+- **Local database** – Automatic history storage
+
+---
+
+## ✅ Why choose Hamsafar? / چرا همسفر را انتخاب کنیم؟
+
+| 🇬🇧 English | 🇮🇷 فارسی |
+|------------|----------|
+| 🌏 **Truly global** – 140+ languages cover almost every destination | 🌏 **واقعاً جهانی** – بیش از ۱۴۰ زبان تقریباً تمام مقصدها را پوشش می‌دهد |
+| 🗣️ **Speak freely** – Voice translation with AI | 🗣️ **آزادانه صحبت کنید** – ترجمه صوتی با هوش مصنوعی |
+| 📷 **Read any sign, menu, or document** – Just point your camera | 📷 **هر تابلو، منو یا سندی را بخوانید** – فقط دوربین را بگیرید |
+| ⚡ **Lightning fast** – AI optimised for real‑time use | ⚡ **فوق‌العاده سریع** – هوش مصنوعی برای استفاده لحظه‌ای بهینه شده |
+| 🎒 **Designed for travellers** – Simple, intuitive UI | 🎒 **طراحی شده برای مسافران** – رابط کاربری ساده و بصری |
+| 📜 **Auto‑save everything** – No manual saving needed | 📜 **ذخیره خودکار همه چیز** – نیازی به ذخیره دستی نیست |
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for every traveller – ساخته شده با عشق برای هر مسافر**
+**Made with ❤️ using Flutter & Dart – for every traveller**  
+**ساخته شده با ❤️ با Flutter و Dart – برای هر مسافر**
 
 </div>
