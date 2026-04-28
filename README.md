@@ -14,7 +14,7 @@
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hamsafartranslator.hamsafartranslator)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=1.2.24)
 [![GitHub stars](https://img.shields.io/github/stars/hamsafartranslator/hamsafar-translator?style=social)](https://github.com/hamsafartranslator/hamsafar-translator/stargazers)
 
 </div>
