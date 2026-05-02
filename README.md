@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img alt="play_store_512 (2)" src="https://github.com/user-attachments/assets/3dcb343d-31fc-4bc2-a459-669ddac292fc" width="40" height="40" /> 
+# <img alt="play_store_512" src="https://github.com/user-attachments/assets/cd9caf96-74a7-4004-a823-4fa018e41557" width="40" height="40" /> 
 # <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px 20px; border-radius: 50px; color: white;">✨ Hamsafar Translator ✨</span>
 
 ### <span style="color: #764ba2;">مترجم همسفر – همراه هوشمند سفر شما</span>
